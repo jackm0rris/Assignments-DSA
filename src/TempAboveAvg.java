@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment1 {
+public class TempAboveAvg {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numberOfDays = 0;
